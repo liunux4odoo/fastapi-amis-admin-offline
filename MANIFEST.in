@@ -1,0 +1,3 @@
+recursive-include fastapi_amis_admin_offline/static *
+recursive-include fastapi_amis_admin_offline/templates *
+prune fastapi_amis_admin_offline/static/elementui
